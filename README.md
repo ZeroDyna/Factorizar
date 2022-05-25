@@ -1,9 +1,9 @@
 # Factorizar
-Este programa fue elaborado con la intención de factorizar binomios a traves de los productos notables en python.
+Este programa fue elaborado con la intención de factorizar binomios a traves de los productos notables en python y.
 
 Este programa es parte del desarrollo del curso Programación de Videojuegos de la carrera Ciencias de la Computación de la UCSP.
 
-Por los alumnos:
+Por el alumnos:
 - Renato Corrales Peña
 
 ## Instrucciones de ejecución

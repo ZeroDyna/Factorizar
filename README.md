@@ -14,7 +14,7 @@ Por el alumno:
     ```
     
 
-2. Al iniciar el programa se le pedira al usuario que elija 1 entre 6 opciones.
+2. Al iniciar el programa se le pedira al usuario que elija 1 entre 7 opcione siendo la ultima la opcion de cerrar el programa.
     ``` 
     1.Binomio al cuadrado
     2.cuadrado de una resta
@@ -22,11 +22,12 @@ Por el alumno:
     4.cubo de una suma 
     5.cubo de una resta
     6.Producto de dos binomios
+    7.Finalizar el programa 
      ```
 
   
 
-3. Al elegir cualquiera de las opciones la persona debera escribir la priimera variable y la segunda variable.
+3. Al elegir cualquiera de las opciones la persona debera escribir la primera variable y segunda variable considerando los signos de la operacion escogida.
 
     ```
     Escriba el factor 1 -->

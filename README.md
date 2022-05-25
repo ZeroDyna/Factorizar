@@ -35,3 +35,8 @@ Por los alumnos:
 4. Al colocar las variables el programa mostrara el resultado de la operacion escogida.
 
    
+    ```
+    Escriba el factor 1 -->x
+    Escriba el factor 2 -->2
+    x ^ 2 - 2 ^ 2
+    ```
